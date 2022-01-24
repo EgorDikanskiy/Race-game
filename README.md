@@ -8,4 +8,4 @@
 ---
 ### Для того чтобы запустить игру можно воспользоваться файлам exe, либо же открыть код в редакторе и установить pygame c помощью pip
 ---
-![](Data/Textures/autoslalom_1.png)
+![](Data/Textures/autoslalom_previev.png)
